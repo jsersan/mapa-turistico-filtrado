@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mapa de Euskadi</title>
+    <style>
+        a:link {
+            text-decoration: none;
+        }
+        
+        #mapa {
+            height: 100%;
+        }
+        
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+        
+        #floating-panel {
+            position: absolute;
+            top: 10px;
+            left: 25%;
+            z-index: 5;
+            background-color: #fff;
+            padding: 5px;
+            border: 1px solid #999;
+            text-align: center;
+            font-family: 'Roboto', 'sans-serif';
+            line-height: 30px;
+            padding-left: 10px;
+            margin-left: -52px;
+        }
+        
+        #legend {
+            font-family: Arial, sans-serif;
+            background: #fff;
+            padding: 10px;
+            margin: 10px;
+            border: 3px solid #000;
+        }
+        
+        #legend h3 {
+            margin-top: 0;
+        }
+        
+        #legend img {
+            vertical-align: bottom;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="mapa"></div>
+    <div id="legend">
+        <h3>Leyenda</h3>
+    </div>
+
+    <!-- Google Maps API con HTTPS -->
+    <script type="text/javascript" async defer 
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyARPYo6hXKPHDSGN9Das5FGK2EF1HTeNps"></script>
+
+    <script src="app.js" defer></script>
+</body>
+
+</html>

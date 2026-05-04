@@ -1,0 +1,31 @@
+[{
+        "latwgs84": "42,84641",
+        "lonwgs84": "-2,667893",
+        "territory": "Araba",
+        "documentName": "Vitoria-Gasteiz",
+        "municipality": "Vitoria-Gasteiz",
+        "marks": "Vitoria-Gasteiz",
+        "documentDescription": "<br>Además de ser el centro político y administrativo de Euskadi, Vitoria-Gasteiz es un innegable ejemplo de buen vivir. Y es que, la capital alavesa cuenta con un rico patrimonio histórico-artístico, un sinfín de zonas ajardinadas, espacios peatonales ideales para el ocio y equipamientos cívicos. Una ciudad accesible, especial, con personalidad. Uno de sus tesoros más preciados y mejor guardados es el casco antiguo, nacido en la Edad Media y único en Euskadi, en el que abundan palacetes renacentistas y edificios románicos.</br> <br>La 'Almendra Medieval' (sobrenombre por el que es conocido el casco antiguo) acoge construcciones religiosas muy interesantes como las iglesias de San Pedro y San Vicente o la parroquia de San Miguel pero, sin resquicio de duda, la joya más conocida es la Catedral de Santa María o Catedral Vieja. Dicho templo sirvió de inspiración para la novela Un mundo sin fin de Ken Follett, y ha dado a conocer Vitoria en el panorama internacional. La iniciativa denominada 'Abierto por obras' permite a los turistas visitar las obras de restauración del edificio. El ensanche del siglo XIX, es un cómodo espacio peatonal, principal zona comercial y llena de bellos miradores.</br>",
+        "web": "https://www.vitoria-gasteiz.org/"
+    },
+    {
+        "latwgs84": "43,32074",
+        "lonwgs84": "-1,98421",
+        "territory": "Gipuzkoa",
+        "documentName": "Donostia-San Sebastian",
+        "municipality": "Donostia",
+        "marks": "Donostialdea",
+        "documentDescription": "<br>San Sebastián (en euskera Donostia y oficialmente Donostia/San Sebastián) es una ciudad y municipio español situado en la costa del golfo de Vizcaya y a 20 kilómetros de la frontera con Francia. La ciudad es la capital de la provincia de Guipúzcoa, en la comunidad autónoma del País Vasco. La población del municipio es de 186 064 habitantes (2016),9​ y su área metropolitana alcanza los 436 500 (2010). Es la cabecera de la Eurociudad Vasca Bayona-San Sebastián, una conurbación de más de 620 000 habitantes.</br><br>Sus principales actividades económicas son el comercio y el turismo,10​ constituyendo en el pasado uno de los más famosos destinos turísticos de España. Su paisaje, dominado por la bahía de La Concha, así como su desarrollo arquitectónico moderno iniciado en la segunda mitad del siglo XIX, que configuró una ciudad de corte francés y aburguesado, propiciaron el desarrollo de la actividad turística a escala europea. Todo ello, unido a eventos internacionales como el Festival Internacional de Cine de San Sebastián, el Festival de Jazz de San Sebastián, la Quincena Musical o el Festival de Cine de Terror, ha dado proyección exterior a la ciudad, a pesar de sus pequeñas dimensiones. San Sebastián fue Capital Europea de la Cultura en 2016 junto con Breslavia, Polonia.</br>",
+        "web": "https://www.donostia.eus/"
+    },
+    {
+        "latwgs84": "43,25696",
+        "lonwgs84": "-2,923441",
+        "territory": "Vizcaya",
+        "documentName": "Bilbo-Bilbao",
+        "municipality": "Bilbao",
+        "marks": "Bilbao",
+        "documentDescription": "Bilbao (en euskera Bilbo) es un municipio situado en el norte de España y una villa de dicho municipio, capital de la provincia y territorio histórico de Vizcaya, en la comunidad autónoma del País Vasco. La villa de Bilbao es la capital y única localidad del municipio, y con 345 141 habitantes según el padrón de 2015,10​ es la urbe más poblada de la comunidad autónoma, siendo la cabecera del área metropolitana de Bilbao, una conurbación de más de 1 000 000 de habitantes11​ que se extiende a lo largo de la ría de Bilbao o del Nervión.",
+        "web": "http://bilbao.eus/"
+    }
+]
